@@ -413,12 +413,8 @@ void request() async {
     }
   }
 ```
-
-##### Demo地址 https://github.com/po1arbear/Flutter-Net.git
+参考原地址： 主要解决了loading 升级 和一些错误
+转载自 https://github.com/po1arbear/Flutter-Net.git
 如果觉得有帮助，欢迎star鼓励 : )
 
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/po1arbear/Flutter-Net.svg)](https://starchart.cc/po1arbear/Flutter-Net)
 
